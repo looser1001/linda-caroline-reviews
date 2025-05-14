@@ -1,0 +1,5 @@
+{
+  "routes": [
+    { "src": "/", "dest": "https://13.61.24.104/linda-caroline/comment-page/comments_list/index.html", "status": 302 }
+  ]
+}
